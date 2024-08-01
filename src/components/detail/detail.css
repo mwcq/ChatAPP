@@ -1,0 +1,13 @@
+.detail {
+  flex: 1;
+  overflow-y: scroll;
+  scrollbar-gutter: stable both-edges;
+  &::-webkit-scrollbar {
+    background-color: transparent;
+    width: 13px;
+  }
+  &::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+  }
+}

@@ -1,3 +1,8 @@
-# Lama Dev Chat App Starter template
+# 聊天项目demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 项目介绍
+
+一个使用Firebase的React实时聊天项目，实现了注册、登录、实时聊天等功能。
+
+## 技术栈
+React、Zustand、Firebase
